@@ -5,7 +5,8 @@
 [![make.fun reward](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/rwnliwan/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/reward.svg)](https://make.fun/c/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
 
 Entry for the make.fun competition
-[Monday, Reviewed in One Line](https://make.fun/c/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1):
+[Monday, Reviewed in One Line](https://make.fun/c/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
+(bounty page: <https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1>):
 write the funniest one-line review of your own Monday, under 200
 characters, and nothing else. Exactly one line, no title, no explanation.
 

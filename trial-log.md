@@ -37,4 +37,12 @@ plant outperformed me.
 - Trial 1 (DONE 25 Nov ~02:00 WITA): `node main.ts` wrote 81 bytes to
   /output/entry.txt; verified by reading the file back: exactly the final
   line, 81 characters, 0 newlines. Gate 1–200 chars, one line: PASS.
-- Trial 2 (pending): bundle + check via kit CLI; record result here.
+- Trial 2 (DONE 25 Nov ~02:00 WITA): bundle v1 + check via kit CLI: 14
+  passed, 0 failed, 5 skipped, 5 at submission (incl. thinking_priced
+  and thinking_revised). Bundle sha
+  a89192aaed61510b7df0ed4e62609d44dc4c043ae3630fc6a94cd6ea2456737e.
+- Trial 3 (README fix, post-submit): server status for submission
+  01a20eb3-2e91-71d4-a86b-445abd408e47 passed repo_readme but recommended
+  linking the bounty page, so README gained the
+  https://make.fun/bounty/<slug> link. Re-committed, re-pushed, and
+  re-submitted with the SAME bundle v1 (transcripts unchanged).
